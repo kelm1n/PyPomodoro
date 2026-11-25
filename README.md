@@ -22,7 +22,8 @@
 
 ## Скриншоты
 
-![alt text](image.png)
+<img width="800" height="630" alt="изображение" src="https://github.com/user-attachments/assets/6c73230e-eb63-4c63-82d7-5faae7ddb56a" />
+
 
 ## Использование
 
