@@ -1,0 +1,14 @@
+# виртуальное окружение
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+
+#Python
+__pycache__/
+*.pyc
+
+#Ide
+.vscode/
