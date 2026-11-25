@@ -27,7 +27,7 @@
 ## Использование
 
 Скачайте последнюю версию PyPomodoro по ссылке
-[Скачать PyPomodoro](https://github.com/ТВОЙ_НИК/PyPomodoro/releases/latest)
+[Скачать PyPomodoro](https://github.com/kelm1n/PyPomodoro/releases/latest)
 
 ## Установка и запуск
 
